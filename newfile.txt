@@ -5,3 +5,4 @@ orange
 lemon
 pineapple
 grape
+strawberry
